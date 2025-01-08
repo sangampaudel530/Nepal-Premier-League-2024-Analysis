@@ -1,0 +1,33 @@
+match_number,date,time,title,team1,team2,team1_runs,team2_runs,result,player_of_the_match,top_batter,top_bowler,venue,winning_team
+1,2024-11-30,12:15 PM,BIRATNAGAR KINGS VS JANAKPUR BOLTS,BK,JKB,127,131,JKB Won By 8 Wickets,Lahiru Milantha,Lahiru Milantha,Lalit Rajbanshi,"Tribhuvan University International Cricket Ground, Kirtipur",JKB
+2,2024-12-02,09:00 AM,KATHMANDU GURKHAS VS CHITWAN RHINOS,KMG,CWR,111,114,CWR Won By 5 Wickets,Sohail Tanvir,Sumit Maharjan,Sohail Tanvir,"Tribhuvan University International Cricket Ground, Kirtipur",CWR
+3,2024-12-02,01:00 PM,JANAKPUR BOLTS VS KARNALI YAKS,JKB,KNY,141,142,JKB Won By 8 Wickets,Anil Sah,Anil Sah,Mohammad Mohsin,"Tribhuvan University International Cricket Ground, Kirtipur",JKB
+4,2024-12-03,09:00 AM,SUDURPASCHIM ROYALS VS BIRATNAGAR KINGS,SPR,BK,182,92,SPR Won By 90 Runs,Dipendra Singh Airee,Dipendra Singh Airee,Abinash Bohara,"Tribhuvan University International Cricket Ground, Kirtipur",SPR
+5,2024-12-03,01:00 PM,CHITWAN RHINOS VS POKHARA AVENGERS,CWR,PKA,161,74,CWR Won By 87 Runs,Rijan Dhakal,Ravi Bopara,Sohail Tanvir,"Tribhuvan University International Cricket Ground, Kirtipur",CWR
+6,2024-12-04,09:00 AM,KARNALI YAKS VS KATHMANDU GURKHAS,KNY,KMG,149,153,KMG Won By 3 Wickets,Sumit Maharjan,Shikhar Dhawan,Gerhard Erasmus,"Tribhuvan University International Cricket Ground, Kirtipur",KMG
+7,2024-12-04,01:00 PM,BIRATNAGAR KINGS VS LUMBINI LIONS,BK,LBL,191,193,BK Won By 2 Wickets,Lokesh Bam,Lokesh Bam,Durgesh Gupta,"Tribhuvan University International Cricket Ground, Kirtipur",BK
+8,2024-12-05,09:00 AM,POKHARA AVENGERS VS JANAKPUR BOLTS,,,138,143,JKB Won By 7 Wickets,James Neesham,Lahiru Milantha,Lalit Rajbanshi,"Tribhuvan University International Cricket Ground, Kirtipur",JKB
+9,2024-12-05,01:00 PM,KATHMANDU GURKHAS VS SUDURPASCHIM ROYALS,,,167,94,SPR Won By 73 Runs,Naren Saud,Brandon McMullen,Naren Saud,"Tribhuvan University International Cricket Ground, Kirtipur",SPR
+10,2024-12-06,09:00 AM,KARNALI YAKS VS CHITWAN RHINOS,,,130,132,KNY Won By 6 Wickets,Bipin Sharma,Ravi Bopara,Bipin Sharma,"Tribhuvan University International Cricket Ground, Kirtipur",KNY
+11,2024-12-06,01:00 PM,LUMBINI LIONS VS POKHARA AVENGERS,,,170,176,PKA Won By 10 Wickets,Andries Gous,Andries Gous,Bipin Khatri,"Tribhuvan University International Cricket Ground, Kirtipur",PKA
+12,2024-12-07,09:00,LUMBINI LIONS VS SUDURPASCHIM ROYALS,,,187,142,SPR Won By 45 Runs,Saif Zaib,Saif Zaib,Brandon McMullen,"Tribhuvan University International Cricket Ground, Kirtipur",SPR
+13,2024-12-07,01:00 PM,KARNALI YAKS VS BIRATNAGAR KINGS,,,133,126,KNY Won By 7 Runs,William Bosisto,William Bosisto,Pratish GC,"Tribhuvan University International Cricket Ground, Kirtipur",KNY
+14,2024-12-08,09:00 AM,JANAKPUR BOLTS VS LUMBINI LIONS,,,136,135,JKB Won By 1 Run,Harsh Thaker,Anil Sah,Harsh Thaker,"Tribhuvan University International Cricket Ground, Kirtipur",JKB
+15,2024-12-08,01:00 PM,SUDURPASCHIM VS CHITWAN RHINOS,,,164,131,CWR Won By 33 Runs,Hassan Eisakhil,Hassan Eisakhil,Scott Kuggeleijn,"Tribhuvan University International Cricket Ground, Kirtipur",CWR
+16,2024-12-10,09:00 AM,CHITWAN RHINOS VS LUMIBINI LIONS,,,167,134,LBL Won By 33 Runs,Rohit Paudel,Rohit Paudel,Rohit Paudel,"Tribhuvan University International Cricket Ground, Kirtipur",LBL
+17,2024-12-10,01:00 PM,KARNALI YAKS VS POKHARA AVENGERS,,,103,106,KNY Won By 7 Wickets,William Bosisto,Gulshan Jha,William Bosisto,"Tribhuvan University International Cricket Ground, Kirtipur",KNY
+18,2024-12-11,09:00 AM,JANAKPUR BOLTS VS SUDURPASCHIM ROYALS,,,123,51,SPR Won By 72 Runs,Ishan Pandey,Binod Bhandari,Kishore Mahato,"Tribhuvan University International Cricket Ground, Kirtipur",SPR
+19,2024-12-11,01:00 PM,KATHMANDU GURKHAS VS LUMBINI LIONS,,,103,85,KMG Won By 18 Runs,Karan KC,Bhim Sharki,Karan KC,"Tribhuvan University International Cricket Ground, Kirtipur",KMG
+20,2024-12-12,09:00 AM,POKHARA AVENGERS VS BIRATNAGAR KINGS,,,139,139,Biratnagar Kings tied with Pokhara Avengers (Pokhara Avengers win Super Over by 13 runs),Raymon Reifer,Scott Edwards,Pratish GC,"Tribhuvan University International Cricket Ground, Kirtipur",
+21,2024-12-12,01:00 PM,JANAKPUR BOLGS VS KATHMANDU GURKHAS,,,101,104,JKB Won By 5 wickets,Lalit Rajbanshi,James Neesham,Lalit Rajbanshi,"Tribhuvan University International Cricket Ground, Kirtipur",JKB
+22,2024-12-13,09:00 AM,LUMBINI LIONS VS KARNALI YAKS,,,128,123,KNY Won By 5 runs,William Bosisto,William Bosisto,Bikash Aagri,"Tribhuvan University International Cricket Ground, Kirtipur",KNY
+23,2024-12-13,01:00 PM,BIRATNAGAR KINGS VS CHITWAN RHINOS,,,181,130,BK Won By 51 runs,Basir Ahamad,Basir Ahamad,Sandeep Lamichhane,"Tribhuvan University International Cricket Ground, Kirtipur",BK
+24,2024-12-14,09:00 AM,POKHARA AVENGERS VS KATHMANDU GURKHAS,,,138,142,KMG Won By 6 wickets,Stephen Eskinazi,Stephen Eskinazi,Bipin Khatri,"Tribhuvan University International Cricket Ground, Kirtipur",KMG
+25,2024-12-14,01:00 PM,CHITWAN RHINOS VS JANAKPUR BOLTS,,,180,148,CWR Won By 32 runs,Kushal Malla,Kushal Malla,Lalit Rajbanshi,"Tribhuvan University International Cricket Ground, Kirtipur",CWR
+26,2024-12-15,01:00 PM,BIRATNAGAR KINGS VS KATHMANDU GURKHAS,,,117,120,KMG Won By 1 Wicket,Dipesh Kandel,Pratik Shrestha,Gerhard Erasmus,"Tribhuvan University International Cricket Ground, Kirtipur",KMG
+27,2024-12-15,09:00 AM,POKHARA AVENGERS VS SUDURPASCHIM ROYALS,,,153,148,SPR Won By 5 Runs,Scott Kuggeleijn,Aarif Sheikh,Scott Kuggeleijn,"Tribhuvan University International Cricket Ground, Kirtipur",SPR
+28,2024-12-16,01:00 PM,SUDURPASCHIM ROYALS VS KARNALI YAKS,,,101,105,SPR Won By 6 Wickets,Dipendra Singh Airee,Ishan Pandey,Harmeet Singh,"Tribhuvan University International Cricket Ground, Kirtipur",SPR
+Eliminator,2024-12-18,09:00 AM,CHITWAN RHINOS VS KARNALI YAKS,,,175,154,KNY Won By 21 Runs,Chadwick Walton,Jaykishan Kolsawala,Zeeshan Maqsood,"Tribhuvan University International Cricket Ground, Kirtipur",KNY
+Qualifier 1,2024-12-18,01:00 PM,SUDURPASCHIM ROYALS VS JANAKPUR BOLTS,,,139,141,SPR Won By 8 Wickets,Binod Bhandari,Binod Bhandari,Dipendra Singh Airee,"Tribhuvan University International Cricket Ground, Kirtipur",SPR
+Qualifier 2,2024-12-19,12:30 PM,JANAKPUR BOLTS VS KARNALI YAKS,,,118,119,JKB Won By 2 Wickets,James Neesham,James Neesham,Bipin Sharma,"Tribhuvan University International Cricket Ground, Kirtipur",JKB
+Final,2024-12-21,12:30 PM,SUDURPASCHIM ROYALS VS JANAKPUR BOLTS,,,184,185,JKB Won By 5 Wickets,Lahiru Milantha,Lahiru Milantha,Kishore Mahato,"Tribhuvan University International Cricket Ground, Kirtipur",JKB
