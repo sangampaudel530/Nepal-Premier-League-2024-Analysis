@@ -11,10 +11,10 @@
   "api_version": "1.0",
   "teams": [
     {
-      "Id":"BK",
-      "Name": "Biratnagar Kings",
-      "Captain": "Sandeep Lamichhane",
-      "Players": [
+      "id": "BK",
+      "name": "Biratnagar Kings",
+      "marquee_player": "Sandeep Lamichhane",
+      "players": [
         "Lokesh Bam",
         "Pratish GC",
         "Bashir Ahmad",
@@ -33,10 +33,10 @@
       ]
     },
     {
-      "Id":"CWR",
-      "Name": "Chitwan Rhinos",
-      "Captain": "Kushal Malla",
-      "Players": [
+      "id": "CWR",
+      "name": "Chitwan Rhinos",
+      "marquee_player": "Kushal Malla",
+      "players": [
         "Rijan Dhakal",
         "Kamal Singh Airee",
         "Sharad Vesawkar",
@@ -54,10 +54,10 @@
       ]
     },
     {
-      "Id":"JB",
-      "Name": "Janakpur Bolts",
-      "Captain": "Aasif Sheikh",
-      "Players": [
+      "id": "JB",
+      "name": "Janakpur Bolts",
+      "marquee_player": "Aasif Sheikh",
+      "players": [
         "Lalit Rajbanshi",
         "Anil Kumar Sah",
         "Rupesh K Singh",
@@ -76,10 +76,10 @@
       ]
     },
     {
-      "Id":"KNY",
-      "Name": "Karnali Yaks",
-      "Captain": "Sompal Kami",
-      "Players": [
+      "id": "KNY",
+      "name": "Karnali Yaks",
+      "marquee_player": "Sompal Kami",
+      "players": [
         "Gulshan Kumar Jha",
         "Nandan Yadav",
         "Mausam Dhakal",
@@ -97,13 +97,13 @@
       ]
     },
     {
-      "Id":"KMG",
-      "Name": "Kathmandu Gurkhas",
-      "Captain": "Karan KC",
-      "Players": [
+      "id": "KMG",
+      "name": "Kathmandu Gurkhas",
+      "marquee_player": "Karan KC",
+      "players": [
         "Shahab Alam",
         "Bhim Sharki",
-        "RashId Khan",
+        "Rashid Khan",
         "Shankar Rana",
         "Dipesh Prasad Kandel",
         "Sumit Maharjan",
@@ -118,10 +118,10 @@
       ]
     },
     {
-      "Id":"LBL",
-      "Name": "Lumbini Lions",
-      "Captain": "Rohit Kumar Paudel",
-      "Players": [
+      "id": "LBL",
+      "name": "Lumbini Lions",
+      "marquee_player": "Rohit Kumar Paudel",
+      "players": [
         "Surya Tamang",
         "Bibek Yadav",
         "Sundeep Jora",
@@ -138,10 +138,10 @@
       ]
     },
     {
-      "Id":"PKA",
-      "Name": "Pokhara Avengers",
-      "Captain": "Kushal Bhurtel",
-      "Players": [
+      "id": "PKA",
+      "name": "Pokhara Avengers",
+      "marquee_player": "Kushal Bhurtel",
+      "players": [
         "Sagar Dhakal",
         "Aakash Chand",
         "Kiran Kumar Thagunna",
@@ -161,10 +161,10 @@
       ]
     },
     {
-      "Id":"SPR",
-      "Name": "Sudurpaschim Royals",
-      "Captain": "Dipendra Singh Airee",
-      "Players": [
+      "id": "SPR",
+      "name": "Sudurpaschim Royals",
+      "marquee_player": "Dipendra Singh Airee",
+      "players": [
         "Md Aarif Sheikh",
         "Abinash Bohara",
         "Binod Bhandari",
@@ -199,7 +199,7 @@
             "team": "BK",
             "runs": 127,
             "wickets": 10,
-            "overs": 19.0
+            "overs": 19
           },
           {
             "team": "JKB",
@@ -223,7 +223,7 @@
           "wickets": 3,
           "runs": 28,
           "overs": 4,
-          "economy_rate": 7.00
+          "economy_rate": 7
         },
         "toss_result": "JKB won the toss and elected to field",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -247,7 +247,7 @@
             "team": "KMG",
             "runs": 111,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "CWR",
@@ -295,7 +295,7 @@
             "team": "KNY",
             "runs": 141,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "JKB",
@@ -319,7 +319,7 @@
           "wickets": 2,
           "runs": 14,
           "overs": 4,
-          "economy_rate": 3.50
+          "economy_rate": 3.5
         },
         "toss_result": "Karnali Yaks won the toss and elected to bat",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -343,7 +343,7 @@
             "team": "SPR",
             "runs": 182,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "BK",
@@ -371,7 +371,7 @@
         },
         "toss_result": "Biratnagar Kings won the toss and elected to field",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-        "third_umpire": "RashId Riaz (PAK)",
+        "third_umpire": "Rashid Riaz (PAK)",
         "match_referee": "Mohammed Shafique (NEP)"
       }
     },
@@ -391,7 +391,7 @@
             "team": "CWR",
             "runs": 161,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "PKA",
@@ -415,7 +415,7 @@
           "wickets": 3,
           "runs": 6,
           "overs": 3,
-          "economy_rate": 2.00
+          "economy_rate": 2
         },
         "toss_result": "Pokhara Avengers won the toss and elected to field",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -439,7 +439,7 @@
             "team": "KNY",
             "runs": 149,
             "wickets": 5,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "KMG",
@@ -487,7 +487,7 @@
             "team": "LBL",
             "runs": 191,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "BK",
@@ -535,7 +535,7 @@
             "team": "PKA",
             "runs": 138,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "JKB",
@@ -583,7 +583,7 @@
             "team": "SPR",
             "runs": 167,
             "wickets": 6,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "KMG",
@@ -631,7 +631,7 @@
             "team": "CWR",
             "runs": 130,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "KNY",
@@ -660,7 +660,7 @@
         },
         "toss_result": "Karnali Yaks won the toss and elected to field",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-        "third_umpire": "RashId Riaz (PAK)",
+        "third_umpire": "Rashid Riaz (PAK)",
         "match_referee": "Mohammed Shafique (NEP)"
       }
     },
@@ -680,7 +680,7 @@
             "team": "LBL",
             "runs": 170,
             "wickets": 5,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "PKA",
@@ -705,7 +705,7 @@
           "wickets": 2,
           "runs": 18,
           "overs": 3,
-          "economy_rate": 6.00
+          "economy_rate": 6
         },
         "toss_result": "Lumbini Lions won the toss and elected to bat",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -729,13 +729,13 @@
             "team": "SPR",
             "runs": 187,
             "wickets": 4,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "LBL",
             "runs": 142,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "SPR Won By 45 Runs",
@@ -778,13 +778,13 @@
             "team": "KNY",
             "runs": 133,
             "wickets": 10,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "BK",
             "runs": 126,
             "wickets": 8,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "KNY Won By 7 Runs",
@@ -827,13 +827,13 @@
             "team": "JKB",
             "runs": 136,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "LBL",
             "runs": 135,
             "wickets": 8,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "JKB Won By 1 Run",
@@ -876,7 +876,7 @@
             "team": "CWR",
             "runs": 164,
             "wickets": 5,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "SPR",
@@ -925,13 +925,13 @@
             "team": "LBL",
             "runs": 167,
             "wickets": 6,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "CWR",
             "runs": 134,
             "wickets": 8,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "LBL Won By 33 Runs",
@@ -980,7 +980,7 @@
             "team": "KNY",
             "runs": 106,
             "wickets": 3,
-            "overs": 15.0
+            "overs": 15
           }
         ],
         "result": "KNY Won By 7 Wickets",
@@ -999,11 +999,11 @@
           "wickets": 6,
           "runs": 28,
           "overs": 4,
-          "economy_rate": 7.00
+          "economy_rate": 7
         },
         "toss_result": "Pokhara Avengers won the toss and elected to bat",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
-        "third_umpire": "RashId Riaz (PAK)",
+        "third_umpire": "Rashid Riaz (PAK)",
         "match_referee": "Manu Nayyar (IND)"
       }
     },
@@ -1023,7 +1023,7 @@
             "team": "SPR",
             "runs": 123,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "JKB",
@@ -1097,14 +1097,14 @@
           "wickets": 4,
           "runs": 16,
           "overs": 4,
-          "economy_rate": 4.00
+          "economy_rate": 4
         },
         "toss_result": "Kathmandu Gurkhas won the toss and elected to bat",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
         "match_officials": {
           "umpires": [
             "Himal Giri (NEP)",
-            "RashId Riaz (PAK)"
+            "Rashid Riaz (PAK)"
           ],
           "third_umpire": "Bismillah Jan Shinwari (AFG)",
           "match_referee": "Manu Nayyar (IND)"
@@ -1127,13 +1127,13 @@
             "team": "BK",
             "runs": 139,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "PKA",
             "runs": 139,
             "wickets": 6,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "Biratnagar Kings tied with Pokhara Avengers (Pokhara Avengers win Super Over by 13 runs)",
@@ -1152,7 +1152,7 @@
           "wickets": 4,
           "runs": 18,
           "overs": 4,
-          "economy_rate": 4.50
+          "economy_rate": 4.5
         },
         "toss_result": "Biratnagar Kings won the toss and elected to bat",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -1161,7 +1161,7 @@
             "Bismillah Jan Shinwari (AFG)",
             "Vinay Kumar (NEP)"
           ],
-          "third_umpire": "RashId Riaz (PAK)",
+          "third_umpire": "Rashid Riaz (PAK)",
           "match_referee": "Manu Nayyar (IND)"
         }
       }
@@ -1207,7 +1207,7 @@
           "wickets": 3,
           "runs": 8,
           "overs": 4,
-          "economy_rate": 2.00
+          "economy_rate": 2
         },
         "toss_result": "Kathmandu Gurkhas won the toss and elected to bat",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -1237,13 +1237,13 @@
             "team": "KNY",
             "runs": 128,
             "wickets": 8,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "LBL",
             "runs": 123,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "KNY Won By 5 runs",
@@ -1261,14 +1261,14 @@
           "wickets": 3,
           "runs": 14,
           "overs": 2,
-          "economy_rate": 7.00
+          "economy_rate": 7
         },
         "toss_result": "Lumbini Lions won the toss and elected to field",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
         "match_officials": {
           "umpires": [
             "Himal Giri (NEP)",
-            "RashId Riaz (PAK)"
+            "Rashid Riaz (PAK)"
           ],
           "third_umpire": "Vinay Kumar (NEP)",
           "match_referee": "Mohammed Shafique (NEP)"
@@ -1291,13 +1291,13 @@
             "team": "BK",
             "runs": 181,
             "wickets": 5,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "CWR",
             "runs": 130,
             "wickets": 6,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "BK Won By 51 runs",
@@ -1315,7 +1315,7 @@
           "wickets": 2,
           "runs": 28,
           "overs": 4,
-          "economy_rate": 7.00
+          "economy_rate": 7
         },
         "toss_result": "Biratnagar Kings won the toss and elected to bat",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
@@ -1345,7 +1345,7 @@
             "team": "PKA",
             "runs": 138,
             "wickets": 8,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "KMG",
@@ -1376,7 +1376,7 @@
         "match_officials": {
           "umpires": [
             "Durga Subedi (NEP)",
-            "RashId Riaz (PAK)"
+            "Rashid Riaz (PAK)"
           ],
           "third_umpire": "Bismillah Jan Shinwari (AFG)",
           "match_referee": "Mohammed Shafique (NEP)"
@@ -1399,13 +1399,13 @@
             "team": "CWR",
             "runs": 180,
             "wickets": 5,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "JKB",
             "runs": 148,
             "wickets": 10,
-            "overs": 18.0
+            "overs": 18
           }
         ],
         "result": "CWR Won By 32 runs",
@@ -1507,7 +1507,7 @@
             "team": "SPR",
             "runs": 153,
             "wickets": 7,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "PKA",
@@ -1531,14 +1531,14 @@
           "wickets": 5,
           "runs": 18,
           "overs": 3.4,
-          "economy_rate": 4.90
+          "economy_rate": 4.9
         },
         "toss_result": "Pokhara Avengers won the toss and elected to field",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
         "match_officials": {
           "umpires": [
             "Bismillah Jan Shinwari (AFG)",
-            "RashId Riaz (PAK)"
+            "Rashid Riaz (PAK)"
           ],
           "third_umpire": "Sanjay Gurung (NEP)",
           "match_referee": "Mohammed Shafique (NEP)"
@@ -1561,7 +1561,7 @@
             "team": "KNY",
             "runs": 101,
             "wickets": 10,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "SPR",
@@ -1615,13 +1615,13 @@
             "team": "KNY",
             "runs": 175,
             "wickets": 6,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "CWR",
             "runs": 154,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           }
         ],
         "result": "KNY Won By 21 Runs",
@@ -1639,13 +1639,13 @@
           "wickets": 3,
           "runs": 26,
           "overs": 4,
-          "economy_rate": 6.50
+          "economy_rate": 6.5
         },
         "toss_result": "Chitwan Rhinos won the toss and elected to field",
         "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
         "match_officials": {
           "umpires": [
-            "RashId Riaz (PAK)",
+            "Rashid Riaz (PAK)",
             "Sanjay Gurung (NEP)"
           ],
           "third_umpire": "Durga Subedi (NEP)",
@@ -1669,7 +1669,7 @@
             "team": "JKB",
             "runs": 139,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "SPR",
@@ -1723,13 +1723,13 @@
             "team": "KNY",
             "runs": 118,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "JKB",
             "runs": 119,
             "wickets": 8,
-            "overs": 19.0
+            "overs": 19
           }
         ],
         "result": "JKB Won By 2 Wickets",
@@ -1777,7 +1777,7 @@
             "team": "SPR",
             "runs": 184,
             "wickets": 9,
-            "overs": 20.0
+            "overs": 20
           },
           {
             "team": "JKB",
@@ -1808,7 +1808,7 @@
         "match_officials": {
           "umpires": [
             "Bismillah Jan Shinwari (AFG)",
-            "RashId Riaz (PAK)"
+            "Rashid Riaz (PAK)"
           ],
           "third_umpire": "Buddhi Pradhan (NEP)",
           "match_referee": "Manu Nayyar (IND)"
@@ -1819,6 +1819,15 @@
   "points_table": [
     {
       "rank": 1,
+      "team": "Janakpur Bolts",
+      "matches_played": 7,
+      "wins": 5,
+      "losses": 2,
+      "nrr": "+0.164",
+      "points": 10
+    },
+    {
+      "rank": 2,
       "team": "Sudurpaschim Royals",
       "matches_played": 7,
       "wins": 6,
@@ -1827,25 +1836,7 @@
       "points": 12
     },
     {
-      "rank": 2,
-      "team": "Janakpur Bolts",
-      "matches_played": 7,
-      "wins": 6,
-      "losses": 1,
-      "nrr": "+0.164",
-      "points": 10
-    },
-    {
       "rank": 3,
-      "team": "Pokhara Avengers",
-      "matches_played": 7,
-      "wins": 5,
-      "losses": 2,
-      "nrr": "+1.200",
-      "points": 10
-    },
-    {
-      "rank": 4,
       "team": "Karnali Yaks",
       "matches_played": 7,
       "wins": 4,
@@ -1854,31 +1845,40 @@
       "points": 8
     },
     {
-      "rank": 5,
+      "rank": 4,
       "team": "Chitwan Rhinos",
       "matches_played": 7,
-      "wins": 3,
-      "losses": 4,
-      "nrr": "-0.100",
-      "points": 6
+      "wins": 4,
+      "losses": 3,
+      "nrr": "+0.634",
+      "points": 8
+    },
+    {
+      "rank": 5,
+      "team": "Kathmandu Gurkhas",
+      "matches_played": 7,
+      "wins": 4,
+      "losses": 3,
+      "nrr": "-0.321",
+      "points": 8
     },
     {
       "rank": 6,
-      "team": "Kathmandu Gurkhas",
+      "team": "Biratnagar Kings",
       "matches_played": 7,
       "wins": 2,
       "losses": 5,
-      "nrr": "-0.500",
+      "nrr": "-0.703",
       "points": 4
     },
     {
       "rank": 7,
-      "team": "Biratnagar Kings",
+      "team": "Pokhara Avengers",
       "matches_played": 7,
-      "wins": 1,
-      "losses": 6,
-      "nrr": "-1.800",
-      "points": 2
+      "wins": 2,
+      "losses": 5,
+      "nrr": "-1.332",
+      "points": 4
     },
     {
       "rank": 8,
@@ -1886,14 +1886,19 @@
       "matches_played": 7,
       "wins": 1,
       "losses": 6,
-      "nrr": "-2.100",
+      "nrr": "-0.498",
       "points": 2
     }
   ],
-
   "result": [
-    {"winner": "Janakpur Bolts"},
-    {"runner_up": "Sudurpaschim Royals"},
-    {"third_place": "Karnali Yaks"}
+    {
+      "winner": "Janakpur Bolts"
+    },
+    {
+      "runner_up": "Sudurpaschim Royals"
+    },
+    {
+      "third_place": "Karnali Yaks"
+    }
   ]
 }

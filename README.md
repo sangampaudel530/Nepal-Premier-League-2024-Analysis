@@ -47,23 +47,6 @@ This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament
 
 ---
 
-##  **Project Structure**
-```
- Nepal_Premier_League_Analysis
-├── data
-│   ├── npl_data.json
-├── notebooks
-│   ├── npl_analysis_notebook.ipynb
-├── outputs
-│   ├── clean_teams_data.csv
-│   ├── clean_matches_data.csv
-│   ├── clean_points_table.csv
-│   ├── clean_results_data.csv
-├── README.md
-```
-
----
-
 ##  **How to Run the Project**
 1. Clone the repository:
    ```bash
