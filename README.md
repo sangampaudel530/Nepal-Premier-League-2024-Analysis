@@ -102,4 +102,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-** If you like this project, give it a star on GitHub!**
+**If you like this project, give it a star on GitHub!**
