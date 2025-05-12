@@ -64,7 +64,7 @@ This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament
 
 ---
 
-## ⚙️ **How to Run the Project**
+##  **How to Run the Project**
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Nepal_Premier_League_Analysis.git
