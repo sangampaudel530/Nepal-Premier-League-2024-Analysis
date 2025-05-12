@@ -97,8 +97,8 @@ This project is licensed under the **MIT License**.
 
 ##  **Contact**
 - **Author:** Sangam Paudel
-- **Email:** your-email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** sangampaudel530@gmail.com
+- **GitHub:** [Your GitHub Profile](https://github.com/sangampaudel530)
 
 ---
 
