@@ -1,11 +1,11 @@
-# 🏏 Nepal Premier League Data Analysis Project
+#  Nepal Premier League Data Analysis Project
 
-## 📚 **Project Overview**
+##  **Project Overview**
 This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament data. The dataset includes match results, team performances, player statistics, and points tables. The goal is to extract meaningful insights, visualize key trends, and provide a detailed overview of team and player performances throughout the league.
 
 ---
 
-## 🚀 **Key Objectives**
+##  **Key Objectives**
 - Clean and preprocess raw JSON data.
 - Analyze team and player performances.
 - Visualize trends and insights using interactive and static plots.
@@ -13,7 +13,7 @@ This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament
 
 ---
 
-## 🛠️ **Technologies Used**
+##  **Technologies Used**
 - **Python**: Data analysis and visualization.
 - **Pandas**: Data manipulation and cleaning.
 - **Matplotlib & Seaborn**: Data visualization.
@@ -21,7 +21,7 @@ This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament
 
 ---
 
-## 📊 **Data Analysis Highlights**
+##  **Data Analysis Highlights**
 ### Team Analysis:
 - Win Distribution
 - Average Runs Scored
@@ -39,7 +39,7 @@ This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament
 
 ---
 
-## 📈 **Visualizations**
+##  **Visualizations**
 - **Bar Charts**: Team wins, top batters, and top bowlers.
 - **Line Charts**: Performance trends over time.
 - **Heatmaps**: Team match performance comparison.
@@ -47,9 +47,9 @@ This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament
 
 ---
 
-## 📂 **Project Structure**
+##  **Project Structure**
 ```
-📦 Nepal_Premier_League_Analysis
+ Nepal_Premier_League_Analysis
 ├── data
 │   ├── npl_data.json
 ├── notebooks
@@ -78,28 +78,28 @@ This project analyzes the **2024 Nepal Premier League (NPL)** cricket tournament
 
 ---
 
-## 📄 **Future Improvements**
+##  **Future Improvements**
 - Add more advanced visualizations.
 - Integrate player-specific performance dashboards.
 - Build interactive dashboards with Plotly.
 
 ---
 
-## 🤝 **Contributing**
+##  **Contributing**
 Contributions are welcome! Please open an issue first to discuss what you would like to change.
 
 ---
 
-## 📝 **License**
+##  **License**
 This project is licensed under the **MIT License**.
 
 ---
 
-## 📬 **Contact**
+##  **Contact**
 - **Author:** Sangam Paudel
 - **Email:** your-email@example.com
 - **GitHub:** [Your GitHub Profile](https://github.com/your-username)
 
 ---
 
-**⭐ If you like this project, give it a star on GitHub!**
+** If you like this project, give it a star on GitHub!**
